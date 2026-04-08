@@ -1,0 +1,28 @@
+HouseID,Address,City,Prov,PostalCode
+1,87 Amberly Avenue SW,Montreal,QC,T8A9J9
+2,21987 147 Street NE,Montreal,QC,T9U3E6
+3,9057 129 Avenue SE,Montreal,QC,T6J8Y5
+4,12998 NW 189 Street,Montreal,QC,T5F6Y8
+5,17780 NE 89a Street,Montreal,QC,T6J9E4
+6,11899 100 Avenue NE,Montreal,QC,T8J6Y8
+7,11908 115 Street,Montreal,QC,T7J8B5
+8,19987 135 Street,Montreal,QC,T6L9N4
+9,10098 127 Street,Montreal,QC,T8J3M6
+10,8977 134 Avenue S,Montreal,QC,T5R5Y5
+11,12234 67 Street SW,Montreal,QC,T5W3W8
+12,3949 199 Avenue,Montreal,QC,T8U5N9
+13,9766 76 Street NE,Montreal,QC,T6L8P8
+14,11988 80 Avenue SW,Montreal,QC,T5Y8B8
+15,3838 114 Street SW,Montreal,QC,T7U3V3
+16,6007 78 Street NE,Montreal,QC,T7Y4N5
+17,67098 130 Street N,Montreal,QC,T8U6H4
+18,768 Ronning Road,Montreal,QC,T7J8Y2
+19,109 Rabbit Hill,Montreal,QC,T4R8J7
+20,901 Holgate Street S,Montreal,QC,T6U3E2
+21,200 Wolf Street SW,Montreal,QC,T7Y5R8
+22,18767 67 Street SW 230,Montreal,QC,T6U8H6
+23,19887 34b Street,Montreal,QC,T6B7Y3
+24,99876 101 Avenue SW 399,Montreal,QC,T6H4R3
+25,8744 94 Avenue,Montreal,QC,T7Y2B5
+26,776 Saddleback Cove W,Montreal,QC,T6V4R1
+27,10876 83 Avenue E,Montreal,QC,T7H4M4

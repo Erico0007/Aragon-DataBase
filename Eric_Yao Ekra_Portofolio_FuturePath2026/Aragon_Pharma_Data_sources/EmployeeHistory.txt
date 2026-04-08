@@ -1,0 +1,4 @@
+EHID,EmpFirst,EmpMI,EmpLast,SIN,DOB,StartDate,EndDate,Address,City,Prov,PostalCode,JobID,Memo,Phone,Cell,Salary,HourlyRate,Review
+1,Claudio,G,Montes,522389217,5/2/1972 0:00:00,2/7/2010 0:00:00,12/1/2016 0:00:00,6587 187th St,Edmonton,AB,T5T2R7,3,Entered graduate program,7804875623,7804872644,0.00,9.80,
+2,Tyler,A,Borley,701432589,6/12/1982 0:00:00,11/15/2007 0:00:00,9/1/2015 0:00:00,303 7905th 96 St,Edmonton,AB,T6C4R3,4,,7804377805,7804373398,$0.00,7.80,
+3,Rebecca,M,Larousse,601498440,6/24/1979 0:00:00,1/4/2009 0:00:00,8/15/2016 0:00:00,110 3rd Ave W,Edmonton,AB,T5A0A3,4,Left for college,7808935877,7808931255,$0.00,8.00,
